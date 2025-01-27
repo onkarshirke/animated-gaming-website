@@ -6,10 +6,6 @@
 
     ReactJS Game Landing Page | ReactJS SASS ViteJS
 
-# Video tutorial
-
-    https://youtu.be/6sp_a1fnkjE
-
 # Resource
 
     Google font: https://fonts.google.com/
