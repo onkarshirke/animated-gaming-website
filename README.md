@@ -1,3 +1,7 @@
+# Link To Test It:
+    https://animated-gaming-website-gamma.vercel.app
+    (Remember to put resolution on 67%)
+
 # legends-landing-page
 
     ReactJS Game Landing Page | ReactJS SASS ViteJS
