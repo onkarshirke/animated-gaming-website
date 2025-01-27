@@ -9,6 +9,7 @@
 # legends-landing-page
 
     ReactJS Game Landing Page | ReactJS SASS ViteJS
+    (Remember to put resolution on 67%)
 
 # Resource
 
@@ -22,7 +23,7 @@
 
 # Preview
 
-!["ReactJS Game Landing Page | ReactJS SASS ViteJS"](https://user-images.githubusercontent.com/67447840/139580486-542d3b05-2e78-4b43-8b3c-ca36cad927c9.png "ReactJS Game Landing Page | ReactJS SASS ViteJS")
+!["ReactJS Game Landing Page | ReactJS SASS ViteJS"](![Image](https://github.com/user-attachments/assets/672326fd-e84c-4f0e-b93e-4fd28efb5e7a)"ReactJS Game Landing Page | ReactJS SASS ViteJS")
 
 !["ReactJS Game Landing Page | ReactJS SASS ViteJS"](https://user-images.githubusercontent.com/67447840/139580545-7ef0116a-8852-4323-9126-c20165265b65.png "ReactJS Game Landing Page | ReactJS SASS ViteJS")
 
