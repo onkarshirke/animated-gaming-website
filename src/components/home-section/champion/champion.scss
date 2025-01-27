@@ -1,0 +1,39 @@
+@use "../../../scss/" as *;
+@use "sass:math";
+
+.champion {
+    &-list {
+        .swiper-slide {
+            width: 100%; // Change to 100% for responsiveness
+            max-width: 450px; // Maintain a maximum width
+            pointer-events: visible;
+            overflow: visible;
+            transform: translateX(0);
+            opacity: 0;
+            transition: transform 0.5s ease, opacity 0.5s ease;
+            transition-delay: 0s;
+        }
+    }
+
+    &.active &-list {
+        .swiper-slide {
+            transform: translateX(0);
+            opacity: 1;
+
+            @for $i from 1 through 10 {
+                &:nth-child(#{$i}) {
+                    transition-delay: #{math.div($i, 2)}s;
+                }
+            }
+        }
+    }
+
+    // Media queries for responsiveness
+    @media (max-width: 768px) {
+        &-list {
+            .swiper-slide {
+                width: 100%; // Full width on smaller screens
+            }
+        }
+    }
+}
